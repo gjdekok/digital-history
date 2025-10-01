@@ -3,7 +3,7 @@
 This document evaluates the knowledge and understanding that both students and faculty members of the Leiden University Institute for History should possess when it comes to the field of Digital History. It is structured using the five steps in the research process as documented on the [Programming Historian](https://programminghistorian.org/en/lessons/). For every step, we include skills that every historian needs to have in this digital age. Then we list some skills that can be taught to Digital History practitioners or specialists. 
 
 ## 1. Acquire
-This step refers to the process of locating and gathering primary and secondary sources to use in the research. For the (digital) historian, this often involves searching for and accessing digital resources. These may include online (digitized) archives, databases and websites.
+This step refers to the process of locating and gathering primary and secondary sources to use in historical research. For the (digital) historian, this often involves searching for and accessing digital resources. These may include online (digitized) archives, databases and websites.
 
 ### Relevant skills for every historian
 * Knowing how to use digital repositories and archives through web-based interfaces
